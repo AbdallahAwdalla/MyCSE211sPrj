@@ -1,0 +1,6 @@
+[submodule "#dfcb61e052d1192d99a07dca6fb4970281afc8e4"]
+	path = "#dfcb61e052d1192d99a07dca6fb4970281afc8e4"
+	url = https://github.com/ARMmbed/mbed-os
+[submodule "mbed-os"]
+	path = mbed-os
+	url = https://github.com/ARMmbed/mbed-os
